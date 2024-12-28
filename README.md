@@ -16,7 +16,9 @@ A simple web app that helps you log your daily workouts. You can add exercises w
 2. Open the `index.html` file in your browser.
 3. Add your exercises and durations to the tracker.
 4. View your logged workouts below the form.
-5. Click the **"Clear Workouts"** button to reset the list.
+5. When all workouts are completed, 3 stars (⭐⭐⭐) will appear.
+6. If any workouts remain incomplete, the thinking emoji (🤔) will appear.
+7. Click the **"Clear Workouts"** button to reset the list.
 
 ---
 
